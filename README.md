@@ -1,4 +1,4 @@
-# Debloter
+# Debloater
 Debloat your device without PC
 
 Apps Required: LADB and Package Name Viewer.
