@@ -5,9 +5,9 @@ Apps Required: LADB and Package Name Viewer.
 
 Note: Wi-fi connectivity is required through the whole process!
 
-LADB: Download Link
+LADB: [Download Link](https://www.mediafire.com/file/gvh8tyl4ejht3kh/LADB+2.1.apk/file)
 
-Package Name Viewer: Download Link(https://www.mediafire.com/file/gvh8tyl4ejht3kh/LADB+2.1.apk/file)
+Package Name Viewer: [Download Link](https://play.google.com/store/apps/details?id=com.csdroid.pkg))
 
 Steps to debloat:
 
