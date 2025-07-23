@@ -7,7 +7,7 @@ Note: Wi-fi connectivity is required through the whole process!
 
 LADB: Download Link
 
-Package Name Viewer: Download Link
+Package Name Viewer: Download Link(https://www.mediafire.com/file/gvh8tyl4ejht3kh/LADB+2.1.apk/file)
 
 Steps to debloat:
 
